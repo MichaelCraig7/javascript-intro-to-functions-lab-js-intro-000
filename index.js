@@ -10,6 +10,4 @@ function logShout(string) {
   console.log("HELLO".toUpperCase)
 }
 
-function logWhisper(string) {
-  console.log("hello".toUpperCase)
-}
+
